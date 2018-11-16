@@ -49,7 +49,6 @@ rules:
   - EnhancedForLoopToStreamSum
   - StringBuildingLoop
   - LambdaToMethodReference
-  - UseStringBuilderAppend
   - CodeFormatter
   - StandardLogger
   - FieldRenaming
